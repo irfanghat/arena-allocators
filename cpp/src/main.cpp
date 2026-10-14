@@ -1,3 +1,7 @@
 #include <iostream>
 
-int main(int argc, char **argv) { std::cout << "It works!" << std::endl; }
+int
+main(int argc, char** argv)
+{
+    std::cout << "It works!" << std::endl;
+}
